@@ -1,0 +1,4 @@
+dao\PersonaDAO.class
+data\Conexion.class
+com\mycompany\agenda\Agenda.class
+modelo\Persona.class
